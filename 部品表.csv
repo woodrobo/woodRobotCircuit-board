@@ -1,0 +1,71 @@
+Reference, Value, Footprint,説明
+C1,0.1u,Capacitor_SMD:C_0603_1608Metric,チップコンデンサ0.1uF 1005
+C2,0.1u,Capacitor_SMD:C_0603_1608Metric,チップコンデンサ0.1uF 1005
+C3,0.1u,Capacitor_SMD:C_0603_1608Metric,チップコンデンサ0.1uF 1005
+C4,0.1u,Capacitor_SMD:C_0603_1608Metric,チップコンデンサ0.1uF 1005
+C5,0.1u,Capacitor_SMD:C_0603_1608Metric,チップコンデンサ0.1uF 1005
+C6,10u,Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder,チップコンデンサ10uF 1608
+C7,0.1u,Capacitor_SMD:C_0603_1608Metric,チップコンデンサ0.1uF 1005
+C8,0.1u,Capacitor_SMD:C_0603_1608Metric,チップコンデンサ0.1uF 1005
+C9,0.1u,Capacitor_SMD:C_0603_1608Metric,チップコンデンサ0.1uF 1005
+C10,0.1u,Capacitor_SMD:C_0603_1608Metric,チップコンデンサ0.1uF 1005
+C11,0.1u,Capacitor_SMD:C_0603_1608Metric,チップコンデンサ0.1uF 1005
+C12,0.1u,Capacitor_SMD:C_0603_1608Metric,チップコンデンサ0.1uF 1005
+C13,0.1u,Capacitor_SMD:C_0603_1608Metric,チップコンデンサ0.1uF 1005
+C14,0.1u,Capacitor_SMD:C_0603_1608Metric,チップコンデンサ0.1uF 1005
+C15,0.1u,Capacitor_SMD:C_0603_1608Metric,チップコンデンサ0.1uF 1005
+C16,0.1u,Capacitor_SMD:C_0603_1608Metric,チップコンデンサ0.1uF 1005
+C17,0.1u,Capacitor_SMD:C_0603_1608Metric,チップコンデンサ0.1uF 1005
+D1,LED,LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder,チップLED red 1608
+D2,LED,LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder,チップLED red 1608
+D3,LED,LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder,チップLED green 1608
+D4,LED,LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder,チップLED blue 1608
+J1,USB_A,Connector_USB:USB_A_Stewart_SS-52100-001_Horizontal,USB A
+J2,Conn_01x04,Connector_JST:JST_EH_B4B-EH-A_1x04_P2.50mm_Vertical,EHコネクタ縦4ピン
+J3,Conn_01x04,Connector_JST:JST_EH_B4B-EH-A_1x04_P2.50mm_Vertical,EHコネクタ縦4ピン
+J4,Conn_02x05_Odd_Even,Connector_PinHeader_2.54mm:PinHeader_2x05_P2.54mm_Vertical,ピンヘッダ 2.54mm 2x5
+J5,Conn_01x02,Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical,ピンヘッダ 2.54mm 1x2
+J6,USB_B_Mini,Connector_USB:USB_Mini-B_Wuerth_65100516121_Horizontal,USB Bミニ
+J7,Conn_02x03_Odd_Even,Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical,ピンヘッダ 2.54mm 2x3
+J8,Conn_01x04,Connector_JST:JST_EH_B4B-EH-A_1x04_P2.50mm_Vertical,EHコネクタ縦4ピン
+J9,Conn_01x04,Connector_JST:JST_EH_B4B-EH-A_1x04_P2.50mm_Vertical,EHコネクタ縦4ピン
+J10,Conn_01x02,Connector_JST:JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical,EHコネクタ縦2ピン
+J11,Conn_01x02,Connector_JST:JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical,EHコネクタ縦2ピン
+J12,Conn_01x02,Connector_JST:JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical,EHコネクタ縦2ピン
+J13,Conn_01x02,Connector_JST:JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical,EHコネクタ縦2ピン
+J14,Conn_01x02,Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical,ピンヘッダ 2.54mm 1x2
+J15,Conn_01x04,Connector_JST:JST_EH_B4B-EH-A_1x04_P2.50mm_Vertical,EHコネクタ縦4ピン
+J16,Conn_01x04,Connector_JST:JST_EH_B4B-EH-A_1x04_P2.50mm_Vertical,EHコネクタ縦4ピン
+J17,Conn_01x06,Connector_JST:JST_EH_B6B-EH-A_1x06_P2.50mm_Vertical,EHコネクタ縦6ピン
+J18,Conn_01x06,Connector_JST:JST_EH_B6B-EH-A_1x06_P2.50mm_Vertical,EHコネクタ縦6ピン
+J19,Conn_01x06,Connector_JST:JST_EH_B6B-EH-A_1x06_P2.50mm_Vertical,EHコネクタ縦6ピン
+J20,Conn_01x06,Connector_JST:JST_EH_B6B-EH-A_1x06_P2.50mm_Vertical,EHコネクタ縦6ピン
+J21,Conn_01x15,Connector_PinSocket_2.54mm:PinSocket_1x15_P2.54mm_Vertical,ピンソケット 2.54mm 1x15
+J22,Conn_01x15,Connector_PinSocket_2.54mm:PinSocket_1x15_P2.54mm_Vertical,ピンソケット 2.54mm 1x15
+J23,Conn_01x04,Connector_JST:JST_EH_B4B-EH-A_1x04_P2.50mm_Vertical,EHコネクタ縦4ピン
+J24,Conn_01x04,Connector_JST:JST_EH_B4B-EH-A_1x04_P2.50mm_Vertical,EHコネクタ縦4ピン
+J25,Conn_01x04,Connector_JST:JST_EH_B4B-EH-A_1x04_P2.50mm_Vertical,EHコネクタ縦4ピン
+J26,Conn_01x04,Connector_JST:JST_EH_B4B-EH-A_1x04_P2.50mm_Vertical,EHコネクタ縦4ピン
+JP1,SolderJumper_2_Open,Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm,部品無し(用途に応じてはんだ付け)
+JP2,SolderJumper_2_Open,Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm,部品無し(用途に応じてはんだ付け)
+JP3,SolderJumper_2_Open,Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm,部品無し(用途に応じてはんだ付け)
+JP4,SolderJumper_2_Open,Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm,部品無し(用途に応じてはんだ付け)
+R1,1k,Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder,チップ抵抗 1kΩ 1608
+R2,120,Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder,チップ抵抗 120 1608
+R3,120,Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder,チップ抵抗 120 1608
+R4,1k,Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder,チップ抵抗 1kΩ 1608
+R5,1k,Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder,チップ抵抗 1kΩ 1608
+R6,1k,Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder,チップ抵抗 1kΩ 1608
+R7,10k,Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder,チップ抵抗 10kΩ 1608
+R8,1k,Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder,チップ抵抗 1kΩ 1608
+R9,1k,Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder,チップ抵抗 1kΩ 1608
+SW1,SW_Push,0_kicad_wood:SW_TVAF06-A020B-R,プッシュスイッチ　表面実装
+U1,SW_TOGGLE_2MOUNTINGHOLE,0_kicad_wood:SW_2MS1T1B4VS2QES,トグルスイッチ　スルーホール
+U2,MCP2562-E-SN,Package_SO:SOIC-8_3.9x4.9mm_P1.27mm,CANトランシーバ MCP2562
+U3,3terminal_regulator(NJM2391DL1-33),Package_TO_SOT_SMD:TO-252-2,3端子レギュレータ　表面実装
+U4,FT230XS,Package_SO:QSOP-16_3.9x4.9mm_P0.635mm,USBシリアル FT230XS
+U5,MCP2562-E-SN,Package_SO:SOIC-8_3.9x4.9mm_P1.27mm,CANトランシーバ MCP2562
+U6,PIC32MZ2048EFH064,Package_QFP:TQFP-64_10x10mm_P0.5mm,マイコン PIC32MZ2048EFH064
+U7,PICkit3,Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Horizontal,ピンヘッダ 2.54mm 1x6
+U8,NJU6319AE,Package_SO:SO-8_3.9x4.9mm_P1.27mm,水晶発振器用IC NJU6319AE
+Y1,Crystal_GND24,Crystal:Crystal_SMD_SeikoEpson_FA238V-4Pin_3.2x2.5mm_HandSoldering,水晶 24MHz 表面実装
