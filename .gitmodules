@@ -1,0 +1,3 @@
+[submodule "kicad_wood_lib"]
+	path = kicad_wood_lib
+	url = https://github.com/woodrobo/kicad_wood_lib.git
