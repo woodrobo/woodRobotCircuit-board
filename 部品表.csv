@@ -66,6 +66,6 @@ U3,3terminal_regulator(NJM2391DL1-33),Package_TO_SOT_SMD:TO-252-2,3’[qƒŒƒMƒ…ƒŒ
 U4,FT230XS,Package_SO:QSOP-16_3.9x4.9mm_P0.635mm,USBƒVƒŠƒAƒ‹ FT230XS
 U5,MCP2562-E-SN,Package_SO:SOIC-8_3.9x4.9mm_P1.27mm,CANƒgƒ‰ƒ“ƒV[ƒo MCP2562
 U6,PIC32MZ2048EFH064,Package_QFP:TQFP-64_10x10mm_P0.5mm,ƒ}ƒCƒRƒ“ PIC32MZ2048EFH064
-U7,PICkit3,Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Horizontal,ƒsƒ“ƒwƒbƒ_ 2.54mm 1x6
+U7,PICkit3,Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Horizontal,Lšƒsƒ“ƒwƒbƒ_ 2.54mm 1x6
 U8,NJU6319AE,Package_SO:SO-8_3.9x4.9mm_P1.27mm,…»”­UŠí—pIC NJU6319AE
 Y1,Crystal_GND24,Crystal:Crystal_SMD_SeikoEpson_FA238V-4Pin_3.2x2.5mm_HandSoldering,…» 24MHz •\–ÊÀ‘•
