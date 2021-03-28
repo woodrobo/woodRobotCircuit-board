@@ -27,4 +27,4 @@ fp-info-cache
 
 # Add by wood
 gerber/*
-add_info/*
+*.xlsx
