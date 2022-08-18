@@ -1,0 +1,71 @@
+Reference, Value, Footprint,説明
+C1,0.1u,Capacitor_SMD:C_0603_1608Metric,チップコンデンサ0.1uF 1608
+C10,20u,Capacitor_SMD:C_0805_2012Metric,チップコンデンサ20uF 2012
+C11,10u,Capacitor_SMD:C_0603_1608Metric,チップコンデンサ10uF 1608
+C12,0.47u,Capacitor_SMD:C_0603_1608Metric,チップコンデンサ0.47uF 1608
+C13,0.1u,Capacitor_SMD:C_0603_1608Metric,チップコンデンサ0.1uF 1608
+C14,0.1u,Capacitor_SMD:C_0603_1608Metric,チップコンデンサ0.1uF 1608
+C15,1n,Capacitor_SMD:C_0603_1608Metric,チップコンデンサ1nF 1608
+C16,0.1u,Capacitor_SMD:C_0603_1608Metric,チップコンデンサ0.1uF 1608
+C17,1u,Capacitor_SMD:C_0603_1608Metric,チップコンデンサ1uF 1608
+C18,10u,Capacitor_SMD:C_0603_1608Metric,チップコンデンサ10uF 1608
+C19,0.1u,Capacitor_SMD:C_0603_1608Metric,チップコンデンサ0.1uF 1608
+C2,10u,Capacitor_SMD:C_0603_1608Metric,チップコンデンサ10uF 1608
+C20,220u,Capacitor_SMD:CP_Elec_10x10,チップ電解コンデンサ220uF 10×10mm
+C3,0.1u,Capacitor_SMD:C_0603_1608Metric,チップコンデンサ0.1uF 1608
+C4,0.1u,Capacitor_SMD:C_0603_1608Metric,チップコンデンサ0.1uF 1608
+C5,0.1u,Capacitor_SMD:C_0603_1608Metric,チップコンデンサ0.1uF 1608
+C6,0.1u,Capacitor_SMD:C_0603_1608Metric,チップコンデンサ0.1uF 1608
+C7,0.1u,Capacitor_SMD:C_0603_1608Metric,チップコンデンサ0.1uF 1608
+C8,0.1u,Capacitor_SMD:C_0603_1608Metric,チップコンデンサ0.1uF 1608
+C9,0.1u,Capacitor_SMD:C_0603_1608Metric,チップコンデンサ0.1uF 1608
+D1,LED,LED_SMD:LED_0603_1608Metric,チップLED orange 1608
+D2,LED,LED_SMD:LED_0603_1608Metric,チップLED blue 1608
+D3,LED,LED_SMD:LED_0603_1608Metric,チップLED orange 1608
+D4,LED,LED_SMD:LED_0603_1608Metric,チップLED blue 1608
+D5,LED,LED_SMD:LED_0603_1608Metric,チップLED green 1608
+D6,LED,LED_SMD:LED_0603_1608Metric,チップLED green 1608
+D7,SS2040FL,Diode_SMD:D_1206_3216Metric,チップショットキーバリアダイオード
+J1,Conn_01x04,Connector_JST:JST_XH_S4B-XH-A_1x04_P2.50mm_Horizontal,XHコネクタ横4ピン
+J2,Conn_01x05,Connector_JST:JST_XH_S5B-XH-A_1x05_P2.50mm_Horizontal,XHコネクタ横5ピン
+J3,Conn_01x03,Connector_JST:JST_XH_S3B-XH-A_1x03_P2.50mm_Horizontal,XHコネクタ横3ピン
+J4,Conn_02x12_Odd_Even,Connector_PinHeader_2.54mm:PinHeader_2x12_P2.54mm_Vertical,L字ピンヘッダ 2.54mm 2x12
+J5,Conn_01x01,MountingHole:MountingHole_2.2mm_M2_Pad,配線つける端子
+J6,Conn_01x01,MountingHole:MountingHole_2.2mm_M2_Pad,配線つける端子
+Q1,Q_NMOS_GDS,Package_TO_SOT_SMD:TO-252-2,NchMOSFET NP52N06SLG
+Q2,Q_NMOS_GDS,Package_TO_SOT_SMD:TO-252-2,NchMOSFET NP52N06SLG
+Q3,Q_NMOS_GDS,Package_TO_SOT_SMD:TO-252-2,NchMOSFET NP52N06SLG
+Q4,Q_NMOS_GDS,Package_TO_SOT_SMD:TO-252-2,NchMOSFET NP52N06SLG
+R1,1k,Resistor_SMD:R_0603_1608Metric,チップ抵抗1kΩ 1608
+R10,10k,Resistor_SMD:R_0603_1608Metric,チップ抵抗10kΩ 1608
+R11,10k,Resistor_SMD:R_0603_1608Metric,チップ抵抗10kΩ 1608
+R12,3.3k,Resistor_SMD:R_0603_1608Metric,チップ抵抗3.3kΩ 1608
+R13,3.3k,Resistor_SMD:R_0603_1608Metric,チップ抵抗3.3kΩ 1608
+R14,10k,Resistor_SMD:R_0603_1608Metric,チップ抵抗10kΩ 1608
+R15,1k,Resistor_SMD:R_0603_1608Metric,チップ抵抗1kΩ 1608
+R16,1k,Resistor_SMD:R_0603_1608Metric,チップ抵抗1kΩ 1608
+R17,20,Resistor_SMD:R_0603_1608Metric,チップ抵抗20Ω 1608
+R18,20,Resistor_SMD:R_0603_1608Metric,チップ抵抗20Ω 1608
+R19,4.7k,Resistor_SMD:R_0603_1608Metric,チップ抵抗4.7kΩ 1608
+R2,1k,Resistor_SMD:R_0603_1608Metric,チップ抵抗1kΩ 1608
+R20,10k,Resistor_SMD:R_0603_1608Metric,チップ抵抗10kΩ 1608
+R21,20,Resistor_SMD:R_0603_1608Metric,チップ抵抗20Ω 1608
+R22,20,Resistor_SMD:R_0603_1608Metric,チップ抵抗20Ω 1608
+R3,1k,Resistor_SMD:R_0603_1608Metric,チップ抵抗1kΩ 1608
+R4,1k,Resistor_SMD:R_0603_1608Metric,チップ抵抗1kΩ 1608
+R5,1k,Resistor_SMD:R_0603_1608Metric,チップ抵抗1kΩ 1608
+R6,1k,Resistor_SMD:R_0603_1608Metric,チップ抵抗1kΩ 1608
+R7,1k,Resistor_SMD:R_0603_1608Metric,チップ抵抗1kΩ 1608
+R8,1k,Resistor_SMD:R_0603_1608Metric,チップ抵抗1kΩ 1608
+R9,10k,Resistor_SMD:R_0603_1608Metric,チップ抵抗10kΩ 1608
+U1,NJM2845,Package_TO_SOT_SMD:TO-252-2,3端子レギュレータ NJM2845
+U10,A3921,Package_SO:HTSSOP-28-1EP_4.4x9.7mm_P0.65mm_EP2.85x5.4mm,フルブリッジドライバ A3921
+U11,ACS712xLCTR-30A,Package_SO:SOIC-8_3.9x4.9mm_P1.27mm,電流センサ ACS712ELCTR-30A-T
+U2,PICkit3,Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Horizontal,L字ピンヘッダ 2.54mm 1x6
+U3,TLP291,Package_SO:SOIC-4_4.55x2.6mm_P1.27mm,フォトカプラ TLP291
+U4,TLP2361,Package_SO:SO-6_4.4x3.6mm_P1.27mm,フォトカプラ TLP2361
+U5,TLP2361,Package_SO:SO-6_4.4x3.6mm_P1.27mm,フォトカプラ TLP2361
+U6,TLP2361,Package_SO:SO-6_4.4x3.6mm_P1.27mm,フォトカプラ TLP2361
+U7,dsPIC33CH64MP202T,Package_SO:SSOP-28_5.3x10.2mm_P0.65mm,dsPIC33CH64MP202T-I/SS
+U8,MAX3485,Package_SO:SOIC-8_3.9x4.9mm_P1.27mm,3.3V動作RS485ドライバ MAX3485ED
+U9,TC7WU04Fx,Package_SO:SSOP-8_2.95x2.8mm_P0.65mm,3回路インバーター TC7WU04FU

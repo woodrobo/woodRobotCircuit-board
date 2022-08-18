@@ -1,0 +1,65 @@
+Reference, Value, Footprint,説明
+C1,0.1u,Capacitor_SMD:C_0603_1608Metric,チップコンデンサ0.1uF 1608
+C2,10u,Capacitor_SMD:C_0603_1608Metric,チップコンデンサ10uF 1608
+C3,0.1u,Capacitor_SMD:C_0603_1608Metric,チップコンデンサ0.1uF 1608
+C4,0.1u,Capacitor_SMD:C_0603_1608Metric,チップコンデンサ0.1uF 1608
+C5,0.1u,Capacitor_SMD:C_0603_1608Metric,チップコンデンサ0.1uF 1608
+C6,0.1u,Capacitor_SMD:C_0603_1608Metric,チップコンデンサ0.1uF 1608
+C7,0.1u,Capacitor_SMD:C_0603_1608Metric,チップコンデンサ0.1uF 1608
+C8,0.1u,Capacitor_SMD:C_0603_1608Metric,チップコンデンサ0.1uF 1608
+C9,0.1u,Capacitor_SMD:C_0603_1608Metric,チップコンデンサ0.1uF 1608
+C10,10u,Capacitor_SMD:C_0603_1608Metric,チップコンデンサ10uF 1608
+C11,0.1u,Capacitor_SMD:C_0603_1608Metric,チップコンデンサ0.1uF 1608
+C12,0.1u,Capacitor_SMD:C_0603_1608Metric,チップコンデンサ0.1uF 1608
+C13,1n,Capacitor_SMD:C_0603_1608Metric,チップコンデンサ1nF 1608
+C14,0.1u,Capacitor_SMD:C_0603_1608Metric,チップコンデンサ0.1uF 1608
+C15,1u,Capacitor_SMD:C_0603_1608Metric,チップコンデンサ1uF 1608
+C16,1u,Capacitor_SMD:C_0603_1608Metric,チップコンデンサ1uF 1608
+C17,1u,Capacitor_SMD:C_0603_1608Metric,チップコンデンサ1uF 1608
+C18,10u,Capacitor_SMD:C_0603_1608Metric,チップコンデンサ10uF 1608
+C19,220u,Capacitor_SMD:CP_Elec_10x10,チップ電解コンデンサ220uF 10×10mm
+C20,10u,Capacitor_SMD:C_0603_1608Metric,チップコンデンサ10uF 1608
+D1,LED,LED_SMD:LED_0603_1608Metric,チップLED orange 1608
+D2,LED,LED_SMD:LED_0603_1608Metric,チップLED red 1608
+D3,LED,LED_SMD:LED_0603_1608Metric,チップLED green 1608
+D4,SS2040FL,Diode_SMD:D_1206_3216Metric,チップショットキーバリアダイオード
+D5,SS2040FL,Diode_SMD:D_1206_3216Metric,チップショットキーバリアダイオード
+J1,Conn_01x04,Connector_JST:JST_XH_S4B-XH-A_1x04_P2.50mm_Horizontal,XHコネクタ横4ピン
+J2,Conn_01x05,Connector_JST:JST_XH_S5B-XH-A_1x05_P2.50mm_Horizontal,XHコネクタ横5ピン
+J3,Conn_01x03,Connector_JST:JST_XH_S3B-XH-A_1x03_P2.50mm_Horizontal,XHコネクタ横3ピン
+J4,Conn_02x12_Odd_Even,Connector_PinHeader_2.54mm:PinHeader_2x12_P2.54mm_Vertical,L字ピンヘッダ 2.54mm 2x12
+J5,Conn_01x01,MountingHole:MountingHole_2.2mm_M2_Pad,配線つける端子
+J6,Conn_01x01,MountingHole:MountingHole_2.2mm_M2_Pad,配線つける端子
+JP1,SolderJumper_3_Open,Jumper:SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm_NumberLabels,電源電圧によりどちらかショートする端子
+Q1,Q_NMOS_GDS,Package_TO_SOT_SMD:TO-252-2,NchMOSFET MTB020N06KJ3
+Q2,Q_NMOS_GDS,Package_TO_SOT_SMD:TO-252-2,NchMOSFET MTB020N06KJ3
+Q3,Q_NMOS_GDS,Package_TO_SOT_SMD:TO-252-2,NchMOSFET MTB020N06KJ3
+Q4,Q_NMOS_GDS,Package_TO_SOT_SMD:TO-252-2,NchMOSFET MTB020N06KJ3
+R1,150,Resistor_SMD:R_0603_1608Metric,チップ抵抗150Ω 1608
+R2,1k,Resistor_SMD:R_0603_1608Metric,チップ抵抗1kΩ 1608
+R3,150,Resistor_SMD:R_0603_1608Metric,チップ抵抗150Ω 1608
+R4,1k,Resistor_SMD:R_0603_1608Metric,チップ抵抗1kΩ 1608
+R5,1k,Resistor_SMD:R_0603_1608Metric,チップ抵抗1kΩ 1608
+R6,1k,Resistor_SMD:R_0603_1608Metric,チップ抵抗1kΩ 1608
+R7,10k,Resistor_SMD:R_0603_1608Metric,チップ抵抗10kΩ 1608
+R8,20,Resistor_SMD:R_0603_1608Metric,チップ抵抗20Ω 1608
+R9,100k,Resistor_SMD:R_0603_1608Metric,チップ抵抗100kΩ 1608
+R10,20,Resistor_SMD:R_0603_1608Metric,チップ抵抗20Ω 1608
+R11,100k,Resistor_SMD:R_0603_1608Metric,チップ抵抗100kΩ 1608
+R12,4.7k,Resistor_SMD:R_0603_1608Metric,チップ抵抗4.7kΩ 1608
+R13,10k,Resistor_SMD:R_0603_1608Metric,チップ抵抗10kΩ 1608
+R14,100k,Resistor_SMD:R_0603_1608Metric,チップ抵抗100kΩ 1608
+R15,20,Resistor_SMD:R_0603_1608Metric,チップ抵抗20Ω 1608
+R16,100k,Resistor_SMD:R_0603_1608Metric,チップ抵抗100kΩ 1608
+R17,20,Resistor_SMD:R_0603_1608Metric,チップ抵抗20Ω 1608
+U1,NJM2845,Package_TO_SOT_SMD:TO-252-2,3端子レギュレータ NJM2845
+U2,PICkit3,Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Horizontal,L字ピンヘッダ 2.54mm 1x6
+U3,TLP291,Package_SO:SOIC-4_4.55x2.6mm_P1.27mm,フォトカプラ TLP291
+U4,TLP152,Package_SO:SO-6_4.4x3.6mm_P1.27mm,フォトカプラ TLP152
+U5,TLP152,Package_SO:SO-6_4.4x3.6mm_P1.27mm,フォトカプラ TLP152
+U6,dsPIC33CH64MP202T,Package_SO:SSOP-28_5.3x10.2mm_P0.65mm,dsPIC33CH64MP202T-I/SS
+U7,MAX3485,Package_SO:SOIC-8_3.9x4.9mm_P1.27mm,3.3V動作RS485ドライバ MAX3485ED
+U8,IR2104,Package_SO:SOIC-8_3.9x4.9mm_P1.27mm,ハーフブリッジドライバ IR2104
+U9,IR2104,Package_SO:SOIC-8_3.9x4.9mm_P1.27mm,ハーフブリッジドライバ IR2104
+U10,ACS712xLCTR-30A,Package_SO:SOIC-8_3.9x4.9mm_P1.27mm,電流センサ ACS712ELCTR-30A-T
+U11,NJM7812SDL1,Package_TO_SOT_SMD:TO-252-2,3端子レギュレータ NJM7812SDL1
