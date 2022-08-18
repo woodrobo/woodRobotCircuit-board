@@ -7,3 +7,6 @@
 [submodule "woodCurrentMD2/kicad_wood_lib"]
 	path = woodCurrentMD2/kicad_wood_lib
 	url = https://github.com/woodrobo/kicad_wood_lib.git
+[submodule "woodTerminal/kicad_wood_lib"]
+	path = woodTerminal/kicad_wood_lib
+	url = https://github.com/woodrobo/kicad_wood_lib.git
