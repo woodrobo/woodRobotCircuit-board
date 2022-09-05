@@ -1,5 +1,5 @@
 # woodRobotCircuit-board
-趣味でロボコン的なロボットを動かす回路を作ろうプロジェクト（？）の回路・基板リポジトリである。ファームウェアは[ここ](https://github.com/woodrobo/woodRobotCircuit-firmware)。
+趣味でロボコン的なロボットを動かす回路を作ろうプロジェクト（？）の回路・基板リポジトリである。ファームウェアは[ここ](https://github.com/woodrobo/woodRobotCircuit-firmware/tree/kanojo_robo)。
 ロボコンや趣味のロボット製作等の参考にどうぞ。  
 
 <img src="./add_info/woodRobotCircuit_system.PNG" alt="システム概要" width="400"/>  
