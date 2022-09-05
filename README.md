@@ -34,4 +34,4 @@ woodCurrentMD2
 
 # 基板発売について  
 ここのサイトで基板のみを売ってるぞ！  
-URLはる
+https://woodrobo.booth.pm/items/4136212

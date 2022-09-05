@@ -18,5 +18,9 @@ woodBoardの特徴を説明すると
   <img src="./add_info/woodBoard.png" alt="基板表" width="400"/>  
   <img src="./add_info/woodBoard_ura.png" alt="基板裏" width="400"/>  
   
-  # 部品について  
-  部品表.csvおよび部品個数表.csvを見てくれ。
+# 部品について  
+部品表.csvおよび部品個数表.csvを見てくれ。
+
+# 基板ミス情報
+- 「FT230XSの10番ピンである3V3OUT」-「GND」間に0.1uFのコンデンサを†気合い†で入れる必要がある。  
+- 「NJM2391DL1-33」の出力側のコンデンサは積層セラミックコンデンサではなく電解コンデンサでなければならない。  
