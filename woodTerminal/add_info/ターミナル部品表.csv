@@ -1,0 +1,20 @@
+Reference, Value, Footprint,説明
+C1,22u,Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder,チップコンデンサ2012 22uF
+C2,10u,Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder,チップコンデンサ1608 10uF
+J1,Conn_01x02,Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical,XHコネクタ縦2ピン
+J2,Conn_01x04,Connector_JST:JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical,XHコネクタ縦4ピン
+J3,Conn_01x04,Connector_JST:JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical,XHコネクタ縦4ピン
+J4,Conn_01x02,Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical,ピンヘッダ1×2ピン
+J5,Conn_01x02,Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical,ピンヘッダ1×2ピン
+J6,Conn_01x02,0_kicad_wood:DeansTConnector_Male,Tコネクタ(オス)
+J7,Conn_01x03,Jumper:SolderJumper-3_P1.3mm_Open_Pad1.0x1.5mm,電源選択、どちらかをブリッジすること
+J8,Conn_02x12_Odd_Even,Connector_PinSocket_2.54mm:PinSocket_2x12_P2.54mm_Vertical,ピンソケット2×12
+J9,Conn_02x12_Odd_Even,Connector_PinSocket_2.54mm:PinSocket_2x12_P2.54mm_Vertical,ピンソケット2×12
+J10,Conn_02x12_Odd_Even,Connector_PinSocket_2.54mm:PinSocket_2x12_P2.54mm_Vertical,ピンソケット2×12
+J11,Conn_02x12_Odd_Even,Connector_PinSocket_2.54mm:PinSocket_2x12_P2.54mm_Vertical,ピンソケット2×12
+J12,Conn_02x12_Odd_Even,Connector_PinSocket_2.54mm:PinSocket_2x12_P2.54mm_Vertical,ピンソケット2×12
+R1,120,Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder,チップ抵抗1608 120Ω
+R2,120,Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder,チップ抵抗1608 120Ω
+R3,1k,Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder,チップ抵抗1608 1kΩ
+R4,330,Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder,チップ抵抗1608 330Ω
+U1,DCDC_Converter_OKL,0_kicad_wood:DCDC_Converter_OKL,DCDCコンバータ

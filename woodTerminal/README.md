@@ -1,6 +1,9 @@
 # woodTerminal
 モータードライバーなどを5枚までまとめるターミナル基板
 
+<img src="./add_info/woodTerminal_exp.png" alt="基板表" width="400"/>
+<img src="./add_info/woodTerminal_ura_exp.png" alt="基板裏" width="400"/> 
+
 仕様
 - ロジック側
 	- RS485の4ピンポート(A,B,5V,GND)
@@ -11,9 +14,6 @@
 	- よく考えると外部供給は一度も試してない(ｶｽ)
 - パワー側
 	- Tコネクタ
-
-  <img src="./add_info/woodTerminal.png" alt="基板表" width="400"/>  
-  <img src="./add_info/woodTerminal_ura.png" alt="基板裏" width="400"/>  
   
   # 部品について  
   部品表.csvおよび部品個数表.csvを見てくれ。
