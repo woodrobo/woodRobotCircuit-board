@@ -1,8 +1,8 @@
 # woodTerminal
 モータードライバーなどを5枚までまとめるターミナル基板
 
-<img src="./add_info/woodTerminal_exp.png" alt="基板表" width="400"/>
-<img src="./add_info/woodTerminal_ura_exp.png" alt="基板裏" width="400"/> 
+<img src="./add_info/woodTerminal_exp.PNG" alt="基板表" width="400"/>
+<img src="./add_info/woodTerminal_ura_exp.PMG" alt="基板裏" width="400"/> 
 
 仕様
 - ロジック側
